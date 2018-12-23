@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern":
+    [
+        "sms",
+        "mmm",
+        "sss"
+    ],
+
+    "key":
+    {
+        "m":
+        {
+            "item": "minecraft:sugar"
+        }
+    },
+
+    "key":
+    {
+      "s":
+      {
+        "item": "minecraft:blaze_rod"
+      }
+    },
+
+    "result":
+    {
+        "item": "roleplaycraft:spell_dust"
+    }

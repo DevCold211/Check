@@ -1,0 +1,13 @@
+language.name=English
+language.region=United States
+language.code=en_us
+
+// Tab
+itemGroup.tabamm=Avan's Magic Mod
+
+// Items
+item.tailsment.name=Tailsment
+item.spell_dust.name=Spell Dust
+
+// Blocks
+tile.Avan's Magic Mod.magicalmachine.name=Magical Weapon Machine

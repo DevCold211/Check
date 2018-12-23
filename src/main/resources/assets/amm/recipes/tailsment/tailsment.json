@@ -1,0 +1,29 @@
+{
+    "type": "forge:ore_shaped",
+    "pattern":
+    [
+        "sms",
+        "msm",
+        "sms"
+    ],
+
+    "key":
+    {
+        "m":
+        {
+            "item": "minecraft:paper"
+        }
+    },
+
+    "key":
+    {
+      "s":
+      {
+        "item": "amm:spell_dust"
+      }
+    },
+
+    "result":
+    {
+        "item": "roleplaycraft:tailsment"
+    }
